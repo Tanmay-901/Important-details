@@ -16,7 +16,6 @@ Specific details about things that are required frequently.
 `gsettings set org.gnome.settings-daemon.plugins.color night-light-temperature <temperature>`  
 * 1000 Lowest value (really red)  
 * 4000 Default night light temperature  
-* 5500 More pleasant and less intense night light temperature  
 * 6500 Default temperature (night light off)  
 * 10000 Highest value (really blue)  
 
