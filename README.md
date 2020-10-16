@@ -1,5 +1,5 @@
 # Important-details
-Specific details about things that are required frequently.  
+Specific details/workarounds/troubleshotting things that are faced frequently.  
 >refer named folders for topic/event specific details.  
   
 ### Keyboard not working:  
