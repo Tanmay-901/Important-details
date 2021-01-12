@@ -19,3 +19,8 @@ Specific details/workarounds/troubleshotting things that are faced frequently.
 * 6500 Default temperature (night light off)  
 * 10000 Highest value (really blue)  
 
+### Convert python file to .exe:  
+* run command in same directory `pyinstaller --onefile --noconsole filename.py`
+    1. pyinstaller should be installed
+    2. `--onefile` is used to specify that only one file should be generated
+    3. `--noconsole` is used to specify that console should not open when the exe file is run(along with the executable).
