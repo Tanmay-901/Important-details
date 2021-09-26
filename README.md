@@ -24,3 +24,7 @@ Specific details/workarounds/troubleshotting things that are faced frequently.
     1. pyinstaller should be installed
     2. `--onefile` is used to specify that only one file should be generated
     3. `--noconsole` is used to specify that console should not open when the exe file is run(along with the executable).
+
+### Install/Update Discord on ubuntu ([more details](https://askubuntu.com/questions/1274180/how-do-i-upgrade-discord-to-v-0-0-12)):
+* Install snap: `sudo snap install discord`
+* update using snap : `sudo snap refresh discord`
